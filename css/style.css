@@ -4,25 +4,36 @@
     border-radius: 10px;
 
 }
-
 .container{
     margin-bottom: 100px;
 
 }
-
 .buy-now-btn{
     background-image: linear-gradient( #EB1B6A, rgb(253, 33, 180));
-    color: white;
     padding: 6px 25px !important;
-    border:none;
 }
-
 .carousel-item{
     padding: 20px 40px;
 
 }
-
 .price{
     color:#EB1B6A;
    
+}
+.cat1{
+    background-image:linear-gradient( #F1932F, #F5C61E);
+    padding: 10px 30px;
+}
+
+.cat2{
+    background-image:linear-gradient( #EB1B6A, rgb(253, 33, 180));
+    padding: 10px 30px;
+}
+.cat3{
+    background-image:linear-gradient( #4277FF, #3718F3);
+    padding: 10px 30px;
+}
+
+.categories img{
+    width: 100px;
 }
